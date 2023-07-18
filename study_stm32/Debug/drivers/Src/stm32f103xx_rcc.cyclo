@@ -1,0 +1,6 @@
+stm32f103xx_rcc.c:16:10:RCC_PllSystem	3
+stm32f103xx_rcc.c:50:10:RCC_GetPCLK1Value	6
+stm32f103xx_rcc.c:96:10:RCC_GetPCLK2Value	6
+stm32f103xx_rcc.c:145:6:SysTickInit	1
+stm32f103xx_rcc.c:154:10:GetTick	1
+stm32f103xx_rcc.c:159:6:SysTick_Handler	1

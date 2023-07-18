@@ -1,0 +1,6 @@
+../drivers/Src/stm32f103xx_rcc.c:16:10:RCC_PllSystem	24	static
+../drivers/Src/stm32f103xx_rcc.c:50:10:RCC_GetPCLK1Value	24	static
+../drivers/Src/stm32f103xx_rcc.c:96:10:RCC_GetPCLK2Value	24	static
+../drivers/Src/stm32f103xx_rcc.c:145:6:SysTickInit	4	static
+../drivers/Src/stm32f103xx_rcc.c:154:10:GetTick	4	static
+../drivers/Src/stm32f103xx_rcc.c:159:6:SysTick_Handler	4	static
